@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @pkokrofua20
+- 👋 Hi, I’m Papa Kwesi
 - 👀 I’m interested in app development
-- 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate with ORACLE
+- 🌱 I’m currently Python and have learnt basic HMTL
+- 💞️ I’m looking to collaborate with other developers on projects
 - 📫 How to reach me pkokrofua.20@gmail.com
 
 <!---
